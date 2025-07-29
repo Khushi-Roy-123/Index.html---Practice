@@ -1,6 +1,13 @@
-# Registration Form
+# 📝 Registration Form
 
-This is a simple HTML registration form created by Khushi Roy.
+A simple and responsive HTML registration form built by **Khushi Roy**. This project includes various input fields like name, password, gender, subjects, contact details, and more.
 
-👉 [Live Demo](https://yourusername.github.io/registration-form/)  
-📁 [View Code](https://github.com/yourusername/registration-form)
+
+## 📌 Features
+- Full Name, Password, DOB fields
+- Gender selection using radio buttons
+- Class & Subject checkboxes
+- Email, contact number, state selection
+- Textarea for feedback
+- Dropdowns for occupation and salary
+- Mobile-friendly structure
